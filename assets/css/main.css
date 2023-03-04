@@ -2681,13 +2681,14 @@ input, select, textarea {
 		}
 
 			.spotlight .image img {
-				transition: transform .2s;
+				/*transition: transform .2s;*/
 				border-radius: 0;
 				width: 100%;
 			}
+			/*
 			.spotlight .image img:hover{
 				transform:scale(1.05);
-			}
+			}*/
 
 		.spotlight .content {
 			padding: 2em 4em 0.1em 4em ;
